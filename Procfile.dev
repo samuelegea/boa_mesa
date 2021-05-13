@@ -1,0 +1,2 @@
+api1: rails s -p 3001
+webapp: cd frontend && npm start
